@@ -1,0 +1,35 @@
+package com.example.myapplication.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Paleta institucional (verde profundo + dorado) — Material Design 3
+val Verde40 = Color(0xFF1B5E3B)
+val VerdeContenedor40 = Color(0xFFB7F0CF)
+val OnVerdeContenedor40 = Color(0xFF00210F)
+val Secundario40 = Color(0xFF4F6354)
+val SecundarioContenedor40 = Color(0xFFD2E8D6)
+val OnSecundarioContenedor40 = Color(0xFF0D1F13)
+val Dorado40 = Color(0xFF7A5F00)
+val DoradoContenedor40 = Color(0xFFFFE08B)
+val OnDoradoContenedor40 = Color(0xFF241A00)
+val Fondo40 = Color(0xFFF6FBF5)
+val SuperficieVariante40 = Color(0xFFDCE5DC)
+val OnSuperficieVariante40 = Color(0xFF414942)
+val Contorno40 = Color(0xFF717972)
+
+val Verde80 = Color(0xFF9CD4B4)
+val OnVerde80 = Color(0xFF003920)
+val VerdeContenedor80 = Color(0xFF00522F)
+val OnVerdeContenedor80 = Color(0xFFB7F0CF)
+val Secundario80 = Color(0xFFB6CCBA)
+val OnSecundario80 = Color(0xFF223527)
+val SecundarioContenedor80 = Color(0xFF384B3D)
+val OnSecundarioContenedor80 = Color(0xFFD2E8D6)
+val Dorado80 = Color(0xFFEBC248)
+val OnDorado80 = Color(0xFF3D2F00)
+val DoradoContenedor80 = Color(0xFF594400)
+val OnDoradoContenedor80 = Color(0xFFFFE08B)
+val Fondo80 = Color(0xFF101411)
+val SuperficieVariante80 = Color(0xFF414942)
+val OnSuperficieVariante80 = Color(0xFFC0C9C0)
+val Contorno80 = Color(0xFF8A938A)
